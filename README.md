@@ -3,6 +3,8 @@ fdmprinter.def.json
 CuraEngine.exe
 Had to modify the .json settings file to add in the castle settings and make them visible. Included a dif report.
 
+https://github.com/SirStreetguru/CuraCastleSlicing/releases/tag/Castle-Slicing
+
 castleslicing@gmail.com or @Lordstreetguru(NSFW) for questions/comments, or:
 https://community.ultimaker.com/topic/47478-castle-slicing-is-now-real-automatically-hollow-models-for-faster-drafts-or-if-only-outer-detail-matters/
 
@@ -13,7 +15,7 @@ D5pTVohSFxkrczJGyGaKgyR4iTi8iFDQcJ
 Bitcoin(Network):
 376TVy4SRV4VQF3jb8gheCfxxtjSeDahY7
 
-Hi, I have no idea what I'm doing. I don't know how to Code in C, nor how to compile, nor any of the deeper concepts I modified within Cura here. I don't know why my CuraEngine.exe file is so much smaller than the original one, might have to do with plug ins. I think there's a bunch of warnings that pop up while compiling, but the software still works so...took quite a bit to get it compiling in the first place even with Cursor helping me at every step.
+Hi, I have no idea what I'm doing. I don't know how to Code in C, nor how to compile, nor any of the deeper concepts I modified within Cura here. I don't know why my CuraEngine.exe file is so much smaller than the original one, might have to do with plug ins. I think there's a bunch of warnings that pop up while compiling, but the software still works so...took quite a bit to get it compiling in the first place even with Cursor helping me at every step. Know clue if I screwed anything up here, don't know how to use Github either.
 
 But with the assistance of GPT 5.3 Codex and Cursor I added a feature that I had always dreamed about called "Castle Slicing", where any model could automatically be made hollow for faster draft prints, or extra geometery could be added for more strength, such as internal walls or mixing and matching infill.
 
