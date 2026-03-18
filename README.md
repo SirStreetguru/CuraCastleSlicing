@@ -1,3 +1,5 @@
+*Ha, I tried to come back to this project, but of course I messed something up when pushing it to github, so even if it compiles successfully, there's some mix up between newer cura files and my 5.10.2 edits. Working on fixing this, but my release files still drop and work fine into Cura 5.10.2
+
 I used Cura 5.10.2, not sure if this is backwards or forwards compatible. Just use a fresh install, and grab the zip file from the release section, or compile on your own if you'd like. Replacement files are:
 fdmprinter.def.json
 CuraEngine.exe
